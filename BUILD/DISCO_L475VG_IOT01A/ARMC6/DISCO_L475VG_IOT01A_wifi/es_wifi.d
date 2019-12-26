@@ -1,0 +1,5 @@
+BUILD\DISCO_L475VG_IOT01A\ARMC6\DISCO_L475VG_IOT01A_wifi\es_wifi.o: \
+  DISCO_L475VG_IOT01A_wifi\es_wifi.c \
+  BUILD\DISCO_L475VG_IOT01A\ARMC6\mbed_config.h \
+  DISCO_L475VG_IOT01A_wifi\es_wifi.h \
+  DISCO_L475VG_IOT01A_wifi\es_wifi_conf.h

@@ -1,0 +1,7 @@
+data/wifi.c.i
+data/wifi.h.i
+data/es_wifi_conf.h.i
+data/es_wifi.c.i
+data/es_wifi.h.i
+data/es_wifi_io.h.i
+data/es_wifi_io.c.i
